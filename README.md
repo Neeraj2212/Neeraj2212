@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hello there, I am Neeraj 👋
+
+- 🔭 I’m a **Full Stack Developer**
+- 🌱 I’m currently learning **Web Designing**
+- 💬 Ask me about **Anything**
+- 📫 Reach me at: patilneeraj2212@gmail.com
+- ❤️ Love to work with community
+
+
 
 <!--
 **Neeraj2212/Neeraj2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
