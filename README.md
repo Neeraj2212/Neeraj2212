@@ -5,7 +5,7 @@
 - 💬 Ask me about **Anything**
 - 📫 Reach me at: patilneeraj2212@gmail.com
 - ❤️ Love to work with community
-- 📑 Know More about my experiences [here](https://bit.ly/neerajpatil-dec)
+- 📑 Know More about my experiences [here](https://rebrand.ly/neeraj-patil)
 
 
 
