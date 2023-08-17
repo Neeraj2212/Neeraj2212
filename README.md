@@ -22,7 +22,8 @@
 <br>
 
 # My Journey
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=neeraj2212&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=dark"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj2212&layout=compact&theme=dark">
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=neeraj2212&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats&theme=dark"> --->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj2212&layout=compact&theme=dark">
 
 
 # Connect with me
